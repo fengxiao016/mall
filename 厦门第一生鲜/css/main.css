@@ -372,28 +372,6 @@ option {
 }
 
 
-.form-group {
-    margin-bottom: 25px
-}
-
-.form-group small {
-    color: var(--gray);
-    letter-spacing: .3px;
-    padding: 0 0 0 20px
-}
-
-.form-group textarea {
-    height: 150px;
-    padding: 12px 20px
-}
-
-.form-label {
-    font-weight: 500;
-    margin: 0 0 7px 3px;
-    white-space: nowrap;
-    text-transform: capitalize
-}
-
 .form-select {
     width: 100%;
     height: 45px;
@@ -587,12 +565,6 @@ option {
     background: var(--primary)
 }
 
-.modal-form {
-    width: 400px;
-    padding: 30px;
-    border-radius: 8px;
-    background: var(--white)
-}
 
 .product-card {
     width: 100%;
